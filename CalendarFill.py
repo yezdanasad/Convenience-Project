@@ -58,7 +58,7 @@ def main():
         for i in range(len(duties_list)):
          event = {
          "summary" : duties_list[i],
-         "location" : "Darrent Valley Hospital",
+         "location" : "Place of Work Goes Here",
          "description" : "Duty For The Day",
          "colorId" : 5,
          "start" : {
